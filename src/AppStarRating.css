@@ -1,0 +1,23 @@
+
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.on {
+  color: #ff00ff;
+}
+
+.off {
+  color: #ccc;
+}
+
+body {
+  padding: 100px;
+}
+
+.title {
+  padding: 10px 5px;
+}
